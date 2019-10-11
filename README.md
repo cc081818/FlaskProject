@@ -1,2 +1,0 @@
-# FlaskProject
-Flask project training
